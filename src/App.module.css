@@ -1,6 +1,6 @@
 .main-bg {
     height: 300px;
-    background-image: url('./img/bg.png');
+    background-image: url('./img/bg.jpeg');
     background-size: cover;
     background-position: center;
 }
@@ -33,13 +33,4 @@
 
 .App-link {
     color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
 }

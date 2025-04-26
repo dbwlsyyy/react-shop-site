@@ -18,6 +18,7 @@ const Detail = (props) => {
                             shoesId.id + 1
                         }.jpg`}
                         width="100%"
+                        alt="images"
                     />
                 </div>
                 <div className="col-md-6">
